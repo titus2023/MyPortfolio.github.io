@@ -66,7 +66,7 @@ nav ul li a {
     height: 100vh;
     padding: 50px;
     margin: 0%;
-    background: linear-gradient(rgba(243,134,18,0.8), rgba(10,61,98,0.9)), url('/images/portfolio.jpg');
+    background: linear-gradient(rgba(243,134,18,0.8), rgba(10,61,98,0.9)), url('portfolio.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -256,7 +256,7 @@ nav ul li a {
 
 /* CONTACT SECTION STYLES */
 .contact {
-    background: linear-gradient(rgba(243,134,18,0.8), rgba(10,61,98,0.9)), url('/images/cont-back.jpg');
+    background: linear-gradient(rgba(243,134,18,0.8), rgba(10,61,98,0.9)), url('cont-back.jpg');
     background-position: center;
     background-size: cover;
     padding: 50px;
